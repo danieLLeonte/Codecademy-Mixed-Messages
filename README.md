@@ -1,5 +1,7 @@
 # Codecademy-Mixed-Messages
 
+![](https://github.com/danieLLeonte/Codecademy-Mixed-Messages/blob/main/screencast/overview%20gif.gif)
+
 ## General Info
 **Every time users runs the program, they get a new, randomized output.** 
 
