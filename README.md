@@ -1,4 +1,4 @@
-# Codecademy-Mixed-Messages
+# Codecademy-Mixed-Messages💬🪙
 
 ## General Info
 **Every time users runs the program, they get a new, randomized output.** 
